@@ -2,7 +2,7 @@
 English: <br>
 This contains most of my college projects, from beginning to end :) </br>
 Right now, the subjects I study are:
-1. Algorythm and Programming Logic.
+1. Algorithm and Programming Logic.
 2. Languages and Programming Techniques.
 3. Software Engineering
 4. Scientific Knowledge Production.
